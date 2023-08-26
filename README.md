@@ -11,6 +11,13 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
-<img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
+<img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>\
+
+<h1>
+  Hi 
+  <img src="https://media.giphy.com/media/RSxEE1thE4LyX3H15w/giphy.gif" width="50px"/>
+</h1>
 </div>
+
+
 
