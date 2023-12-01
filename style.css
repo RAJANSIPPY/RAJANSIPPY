@@ -1,0 +1,35 @@
+.header {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    align-items: center;
+    text-align: center;
+    background: red;
+    padding:5px;
+  }
+  .main_header {
+    width: 100%;
+    max-width: 600px;
+    aspect-ratio:2;
+    background: green;
+    background-image:url("https://socialify.git.ci/RAJANSIPPY/RAJANSIPPY/image?font=Inter&forks=1&issues=1&language=1&name=1&pattern=Plus&pulls=1&stargazers=1&theme=Dark");
+    background-size:cover;
+    background-repeat: no-repeat;
+    box-sizing: border-box;
+    border-radius: 5px;
+    padding: 5px;
+  }
+  .badges{
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+  }
+
+  .intro {
+    width: 600px;
+    display: flex;
+    flex-direction: column;
+    justify-content: start;
+    gap: 10px;
+    padding: 0px;
+  }
