@@ -1,31 +1,9 @@
-<style>
-  .badges{
-    display: flex;
-    flex-direction: row;
-    gap: 10px;
-  }
+<div style="width:150px; height:100px; background: red;">
 
-  .badges img {
-    border-radius:3px;
-  }
-
-  .intro {
-    width: 600px;
-    display: flex;
-    flex-direction: column;
-    justify-content: start;
-    gap: 10px;
-    padding: 0px;
-  }
-</style>
-
-<div style = "display: flex;
-    flex-direction: column;
-    gap: 10px;
-    align-items: center;
-    text-align: center;
-    background: red;
-    padding:5px; " class = "header">
+|||
+|:--:|:--:|
+|d|d|
+</div>
   <div style = "width: 100%;
     max-width: 600px;
     aspect-ratio:2;
